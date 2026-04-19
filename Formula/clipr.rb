@@ -1,8 +1,8 @@
 class Clipr < Formula
   desc "A fast, git-friendly URL shortener"
   homepage "https://github.com/hammadxcm/clipr"
-  url "https://registry.npmjs.org/clipr-cli/-/clipr-cli-0.0.15.tgz"
-  sha256 "e2712ecccbb2e461a13f15b284f27689d933b897"
+  url "https://registry.npmjs.org/clipr-cli/-/clipr-cli-0.0.16.tgz"
+  sha256 "081fcf984d9ba1295557c8c2a140117cc11e5621"
   license "MIT"
   depends_on "node@22"
   def install
